@@ -1,4 +1,4 @@
-import { ListGrid, ListGridContent } from 'apps/web/src/components/Brand/ListGridMasonry';
+﻿import { ListGrid, ListGridContent } from 'apps/web/src/components/Brand/ListGridMasonry';
 import Text from 'apps/web/src/components/base-org/typography/TextRedesign';
 import Title from 'apps/web/src/components/base-org/typography/TitleRedesign';
 import { TitleLevel } from 'apps/web/src/components/base-org/typography/TitleRedesign/types';
@@ -92,7 +92,7 @@ const sectionContent: ListGridContent = {
       </div>
       <div className="grid pt-8 md:grid-cols-2 md:gap-8 md:pt-12">
         <div className="flex flex-col gap-2 border-t border-[#D9D9E3] py-4 md:pb-0">
-          <Text className="underline">Tone in Writting: A Simple Guide</Text>
+          <Text className="underline">Tone in Writing: A Simple Guide</Text>
           <Text className="!text-base-gray-200">
             ”…voice is what you say, and tone is how you say it.”
           </Text>
